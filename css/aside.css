@@ -1,0 +1,5 @@
+.aside {
+  width: 25%;        /* ancho del aside */
+  float: right;      /* lo manda a la derecha */
+  margin: 0;         /* ajusta márgenes */
+}
